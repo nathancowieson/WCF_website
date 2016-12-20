@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="142EC3A3-0320-4EF3-B7A7-6A8A88153223">
+  <lastEdited clientType="local-build-20161206" date="2016-12-06 15:55:45 +0000"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Our occasional &#x2018;church meeting with a difference&#x2019;.&#xD;&#xD;Download the message here:&#xD;&#xD;&lt;a href="Sunday%2019%20May%202013.mp3"&gt;Sunday 19 May 2013.mp3&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Sunday, 19 May 2013</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Sunday focus</richText>
+  </textBox>
+</content>
