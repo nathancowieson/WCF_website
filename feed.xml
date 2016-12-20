@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:71C2ACAC-A267-4216-B964-E75D7F9A8DCF</id>
+ <title>Page list Atom feed</title>
+ <updated>2016-12-18T16:28:11+00:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:15691922-1813-4E88-B321-3E6E7031CE7D</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">15691922-1813-4E88-B321-3E6E7031CE7D</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2016-12-18T16:28:11.001+00:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:544917C2-0F94-4C5E-A7D9-BB021EBC905C</id>
+  <title>Lifted</title>
+  <title xmlns="urn:iweb:">Lifted</title>
+  <in-navbar xmlns="urn:iweb:">544917C2-0F94-4C5E-A7D9-BB021EBC905C</in-navbar>
+  <link rel="alternate" href="Lifted.html"/>
+  <updated>2016-12-18T16:28:11.002+00:00</updated>
+  <content>Lifted</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:E395EFFF-6726-4A1D-B358-DA000CBE9F35</id>
+  <title>Mission</title>
+  <title xmlns="urn:iweb:">Mission</title>
+  <in-navbar xmlns="urn:iweb:">E395EFFF-6726-4A1D-B358-DA000CBE9F35</in-navbar>
+  <link rel="alternate" href="Mission.html"/>
+  <updated>2016-12-18T16:28:11.003+00:00</updated>
+  <content>Mission</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D1B5DFF2-C4C0-46AB-9393-E4E95B03C7B0</id>
+  <title>Rotas </title>
+  <title xmlns="urn:iweb:">Rotas </title>
+  <in-navbar xmlns="urn:iweb:">D1B5DFF2-C4C0-46AB-9393-E4E95B03C7B0</in-navbar>
+  <link rel="alternate" href="Rotas.html"/>
+  <updated>2016-12-18T16:28:11.004+00:00</updated>
+  <content>Rotas </content>
+ </entry>
+ <entry>
+  <id>urn:iweb:05555FEE-E10E-4364-B248-7C6FEC55EC4A</id>
+  <title>Speaking plan</title>
+  <title xmlns="urn:iweb:">Speaking plan</title>
+  <in-navbar xmlns="urn:iweb:">05555FEE-E10E-4364-B248-7C6FEC55EC4A</in-navbar>
+  <link rel="alternate" href="Speaking_plan.html"/>
+  <updated>2016-12-18T16:28:11.005+00:00</updated>
+  <content>Speaking plan</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:00392499-9345-4E39-9FC0-C22DC6709058</id>
+  <title>Where we meet</title>
+  <title xmlns="urn:iweb:">Where we meet</title>
+  <in-navbar xmlns="urn:iweb:">00392499-9345-4E39-9FC0-C22DC6709058</in-navbar>
+  <link rel="alternate" href="Where_we_meet.html"/>
+  <updated>2016-12-18T16:28:11.006+00:00</updated>
+  <content>Where we meet</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:783ED5E3-3ECC-4956-8FC6-80DC3A55B4E2</id>
+  <title>Elders</title>
+  <title xmlns="urn:iweb:">Elders</title>
+  <in-navbar xmlns="urn:iweb:">783ED5E3-3ECC-4956-8FC6-80DC3A55B4E2</in-navbar>
+  <link rel="alternate" href="Elders.html"/>
+  <updated>2016-12-18T16:28:11.007+00:00</updated>
+  <content>Elders</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:80C5303F-381B-4527-AA06-72249F6273C8</id>
+  <title>Contact</title>
+  <title xmlns="urn:iweb:">Contact</title>
+  <in-navbar xmlns="urn:iweb:">80C5303F-381B-4527-AA06-72249F6273C8</in-navbar>
+  <link rel="alternate" href="Contact.html"/>
+  <updated>2016-12-18T16:28:11.008+00:00</updated>
+  <content>Contact</content>
+ </entry>
+</feed>
