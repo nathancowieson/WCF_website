@@ -1,0 +1,8 @@
+# Ignoring some of the larger #
+# file types to reduce the    #
+# size of the repository.     #
+###############################
+
+*.mp3
+*.pptx
+*.mp4
