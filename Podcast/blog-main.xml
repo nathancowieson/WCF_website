@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Podcast</title>
+    <link>http://www.wantagechristianfellowship.org.uk/WCF/Podcast</link>
+    <description></description>
+    <item>
+      <title>Advent 2 - The miracle of the message</title>
+      <link>http://www.wantagechristianfellowship.org.uk/WCF/Podcast/Entries/2015/12/6_ocean_view_scenery.html</link>
+      <guid isPermaLink="false">cc48d575-6f5a-4f49-a80d-cc54c85bf6c7</guid>
+      <pubDate>Sun, 6 Dec 2015 15:34:35 +0000</pubDate>
+      <description>Part 2 of our 2016 Advent series, with Alastair Clunie.</description>
+      <iweb:image href="Media/Alastair%20mono.jpg"></iweb:image>
+      <iweb:badge type="audio"></iweb:badge>
+      <iweb:comment enabled="0" count="0" link="http://www.wantagechristianfellowship.org.uk/WCF/Podcast/Entries/2015/12/6_ocean_view_scenery.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, d MMMM y</iweb:dateFormat>
+    <iweb:baseURL>http://www.wantagechristianfellowship.org.uk/WCF/Podcast</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

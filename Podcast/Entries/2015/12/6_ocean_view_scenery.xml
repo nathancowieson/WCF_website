@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="B23ED1B6-0AD0-4453-BF7D-F6B9315E00A8">
+  <lastEdited clientType="local-build-20161206" date="2016-12-06 15:54:32 +0000"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Part 2 of our 2016 Advent series, with Alastair Clunie.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Sunday, 6 December 2015</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Advent 2 - The miracle of the message</richText>
+  </textBox>
+</content>

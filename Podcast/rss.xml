@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title></title>
+    <link>http://www.wantagechristianfellowship.org.uk/WCF/Podcast/Podcast.html</link>
+    <description> </description>
+    <generator>iWeb 3.0.4</generator>
+    <ttl>60</ttl>
+    <itunes:explicit>no</itunes:explicit>
+    <language>en</language>
+    <item>
+      <title>Advent 2 - The miracle of the message</title>
+      <link>http://www.wantagechristianfellowship.org.uk/WCF/Podcast/Entries/2015/12/6_ocean_view_scenery.html</link>
+      <guid isPermaLink="false">cc48d575-6f5a-4f49-a80d-cc54c85bf6c7</guid>
+      <pubDate>Sun, 6 Dec 2015 15:34:35 +0000</pubDate>
+      <description>&lt;a href=&quot;http://www.wantagechristianfellowship.org.uk/WCF/Media/061215%20sermon.mp3&quot;&gt;&lt;img src=&quot;http://www.wantagechristianfellowship.org.uk/WCF/Podcast/Media/Alastair%20mono_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:358px; height:506px;&quot;/&gt;&lt;/a&gt;Part 2 of our 2016 Advent series, with Alastair Clunie.</description>
+      <enclosure url="http://www.wantagechristianfellowship.org.uk/WCF/Media/061215%20sermon.mp3" length="33094565" type="audio/mpeg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:27:34</itunes:duration>
+      <itunes:subtitle>Part 2 of our 2016 Advent series, with Alastair Clunie.</itunes:subtitle>
+      <itunes:summary>Part 2 of our 2016 Advent series, with Alastair Clunie.</itunes:summary>
+    </item>
+  </channel>
+</rss>
