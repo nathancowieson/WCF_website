@@ -9,7 +9,7 @@ A local copy of the various HTML and resource files can be created using the exp
 After creating a local clone the intention is then to make the changes locally, checking how it looks, push the changes to github and trigger a pull from the host server.
 
 ## History
-The code was originally created using the depricated Mac iWeb software. Following the move to github it has been editted using either emacs or SeaMonkey.
+The site was originally created using the depricated Mac iWeb software. Following the move to github it has been editted using either emacs or SeaMonkey.
 
 ## Credits
 Thanks to Mark Craig for putting the site together and maintaining it for so long.
